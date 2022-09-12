@@ -1,0 +1,14 @@
+{
+  "name": "@hydrosquall/simple-linear-regression-scatterplot-with-d3",
+  "main": "2275d3f18ff319fd@218.js",
+  "version": "218.0.0",
+  "homepage": "https://observablehq.com/@hydrosquall/simple-linear-regression-scatterplot-with-d3",
+  "author": {
+    "name": "Cameron Yick",
+    "url": "https://observablehq.com/@hydrosquall"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
